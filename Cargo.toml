@@ -16,3 +16,27 @@ path = "src/04_primitive/scalar.rs"
 [[bin]]
 name = "compound"
 path = "src/04_primitive/compound.rs"
+
+[[bin]]
+name = "main_types"
+path = "src/05_user_defined_types/01_main_types.rs"
+
+[[bin]]
+name = "string"
+path = "src/05_user_defined_types/02_string.rs"
+
+[[bin]]
+name = "option"
+path = "src/05_user_defined_types/03_option.rs"
+
+[[bin]]
+name = "result"
+path = "src/05_user_defined_types/04_result.rs"
+
+[[bin]]
+name = "alias"
+path = "src/05_user_defined_types/05_alias.rs"
+
+[[bin]]
+name = "struct"
+path = "src/05_user_defined_types/06_struct.rs"
