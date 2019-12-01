@@ -40,3 +40,15 @@ path = "src/05_user_defined_types/05_alias.rs"
 [[bin]]
 name = "struct"
 path = "src/05_user_defined_types/06_struct.rs"
+
+[[bin]]
+name = "if"
+path = "src/06_basic/01_if.rs"
+
+[[bin]]
+name = "match"
+path = "src/06_basic/02_match.rs"
+
+[[bin]]
+name = "mod"
+path = "src/06_basic/03_mod.rs"
