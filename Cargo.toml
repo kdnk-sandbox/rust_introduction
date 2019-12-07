@@ -52,3 +52,27 @@ path = "src/06_basic/02_match.rs"
 [[bin]]
 name = "mod"
 path = "src/06_basic/03_mod.rs"
+
+[[bin]]
+name = "value_ownership"
+path = "src/07_ownership/01_value_ownership.rs"
+
+[[bin]]
+name = "value_scope"
+path = "src/07_ownership/02_value_scope.rs"
+
+[[bin]]
+name = "copy"
+path = "src/07_ownership/03_copy.rs"
+
+[[bin]]
+name = "borrow"
+path = "src/07_ownership/04_borrow.rs"
+
+[[bin]]
+name = "simple_vec"
+path = "src/07_ownership/05_simple_vec.rs"
+
+[[bin]]
+name = "trait_basic"
+path = "src/08_trait/01_trait_basic.rs"
