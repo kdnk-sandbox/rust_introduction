@@ -70,8 +70,12 @@ name = "borrow"
 path = "src/07_ownership/04_borrow.rs"
 
 [[bin]]
-name = "simple_vec"
-path = "src/07_ownership/05_simple_vec.rs"
+name = "toy_vec"
+path = "src/07_ownership/toy_vec.rs"
+
+[[bin]]
+name = "use_toy_vec"
+path = "src/07_ownership/use_toy_vec.rs"
 
 [[bin]]
 name = "trait_basic"

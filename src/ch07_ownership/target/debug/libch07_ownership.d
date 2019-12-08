@@ -1,0 +1,1 @@
+/Users/kodainakamura/.go/src/github.com/kdnk/rust_introduction/src/ch07_ownership/target/debug/libch07_ownership.rlib: /Users/kodainakamura/.go/src/github.com/kdnk/rust_introduction/src/ch07_ownership/src/lib.rs
