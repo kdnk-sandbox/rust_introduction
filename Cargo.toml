@@ -76,3 +76,11 @@ path = "src/07_ownership/05_simple_vec.rs"
 [[bin]]
 name = "trait_basic"
 path = "src/08_trait/01_trait_basic.rs"
+
+[[bin]]
+name = "trait_generics"
+path = "src/08_trait/02_trait_generics.rs"
+
+[[bin]]
+name = "dispatch"
+path = "src/08_trait/03_dispatch.rs"

@@ -82,7 +82,7 @@ impl LinearTransform for CartesianCoord {
 }
 
 impl LinearTransform for PolarCoord {
-    fn rotate(mut self, theta: f464) -> Self {
+    fn rotate(mut self, theta: f64) -> Self {
         self.theta += theta;
         self
     }
